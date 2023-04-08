@@ -1,6 +1,6 @@
 # ntnu
-following is my course list on ntnu csie
-general course
+following is my course list as a NTNU CSIE student
+<h1 style="background-color:Tomato;">general courses</h1>
 ## Chinese
 - chinese 1 [link]()
 - chinese 2 [link]()
